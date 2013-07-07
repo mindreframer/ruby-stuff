@@ -1,1 +1,2 @@
 https://github.com/russolsen/design_patterns_in_ruby_code.git
+https://github.com/coderoshi/dds.git
