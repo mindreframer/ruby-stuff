@@ -1,5 +1,10 @@
 ## [Ruby](http://www.ruby-lang.org/)
 
+### Distributed Data (Ruby Examples)
+  - [Eric Redmond - Distributed patterns you should know - Railsberry 2013](http://vimeo.com/68757697)
+  - [Eric Redmond - Distributed Patterns in Ruby - Ancient City Ruby](http://www.youtube.com/watch?v=Adu_dbcnUHA)
+
+
 <!-- PROJECTS_LIST_START -->
     coderoshi/dds:
       Sample code for Distributed Datastructures talk
