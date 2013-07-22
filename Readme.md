@@ -13,4 +13,8 @@
     russolsen/design_patterns_in_ruby_code:
       The code from Russ Olsen's book Design Patterns in Ruby (http://goo.gl/OKPQw)
        6 commits, last change: 2013-06-23 06:25:05, 159 stars, 17 forks
+
+    tomstuart/computationbook:
+      Example code for Understanding Computation
+       54 commits, last change: 2013-06-10 04:25:44, 51 stars, 6 forks
 <!-- PROJECTS_LIST_END -->
